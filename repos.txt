@@ -1,0 +1,6 @@
+# repos.txt - 対象リポジトリ一覧 (1行1リポジトリ)
+# コメント行や空行は無視されます
+
+# myorg/api-server
+# myorg/frontend
+# myorg/infra
